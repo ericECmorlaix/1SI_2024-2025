@@ -887,21 +887,27 @@
     
     - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter] ;
 
-
+-->
 ***
-## Les 13 et 14/09 : (1h + 2h)
+## Le 10/09 :
 
 === "CONTENU DE SÉANCE"
 
-    - Cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2024-2025/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank​} -> ==**découvrir** le SysML et l'outil de dessin vectoriel​​ [Draw.io - Diagrams.net](https://www.diagrams.net/){target=_blank} ;==  
-    [:fontawesome-solid-download: Télécharger le notebook du cours](https://ericecmorlaix.github.io/1SI_2024-2025/AF/OutilsAnalyseFonctionnelleExterne.ipynb){ .md-button .md-button--primary } 
+    - **Créer** un compte élève sur [Capytale](https://capytale2.ac-paris.fr/web/c-auth/login){target=_blank} avec le code Sésame `S032V1FDJ` ;
+    
+    - Cours [Analyse Fonctionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2024-2025/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank​}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/AF/OutilsAnalyseFonctionnelleExterne.ipynb){ .md-button .md-button--primary } [Capytale n°57ee-3860826](https://capytale2.ac-paris.fr/web/c/57ee-3860826){target=_blank .md-button .md-button--primary }
+
+    > ==**découvrir** le SysML et l'outil de dessin vectoriel​​ [Draw.io - Diagrams.net](https://www.drawio.com/){target=_blank} ;== 
 
 
 === "TRAVAIL À FAIRE"
 
-    - **Reproduire** le diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2024-2025/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank}​ et le **transmettre** par [mail].
+    - **Reproduire** le diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2024-2025/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank}​ dans votre classeur GitHub et sur Capytale pour le 13/09.
     - **Personaliser** [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil et **partager** par [mail] des liens en lecture vers ces pages...== ;
--->
+
+    - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
+
 ***
 ## Le 09/09 :
 
