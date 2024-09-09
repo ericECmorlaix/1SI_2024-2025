@@ -901,9 +901,9 @@
 
     - **Reproduire** le diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2024-2025/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank}​ et le **transmettre** par [mail].
     - **Personaliser** [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil et **partager** par [mail] des liens en lecture vers ces pages...== ;
-
+-->
 ***
-## Les 07 et 08/09 : (2h + 1h)
+## Le 09/09 :
 
 === "CONTENU DE SÉANCE"
 
@@ -914,7 +914,7 @@
 === "TRAVAIL À FAIRE"
 
     - **Finir** la mise en place de [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} depuis votre iPad via l'environnement VSC de Codespaces ;
--->
+
 ***
 ## Le 06/09 (1h)
 
