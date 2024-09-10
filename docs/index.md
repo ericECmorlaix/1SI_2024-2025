@@ -889,7 +889,7 @@
 
 -->
 ***
-## Le 10/09 :
+## Les 10 et 13/09 :
 
 === "CONTENU DE SÉANCE"
 
@@ -903,7 +903,7 @@
 
 === "TRAVAIL À FAIRE"
 
-    - **Reproduire** le diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2024-2025/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank}​ dans votre classeur GitHub et sur Capytale pour le 13/09.
+    - **Reproduire** le diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2024-2025/blob/main/docs/AF/OutilsAnalyseFonctionnelleExterne.ipynb){target=_blank}​ dans votre classeur GitHub et sur Capytale pour le 16/09.
     - **Personaliser** [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil et **partager** par [mail] des liens en lecture vers ces pages...== ;
 
     - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
