@@ -888,6 +888,11 @@
     - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter] ;
 
 -->
+???+ tip "Astuces"
+
+    - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
+    > source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>{target=_blank}
+
 ***
 ## Les 10 et 13/09 :
 
