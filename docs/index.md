@@ -902,11 +902,6 @@
         
     > ==**découvrir** plus avant le SysML et l'outil de dessin vectoriel​​ [Draw.io - Diagrams.net](https://www.drawio.com/){target=_blank} ;==      
 
-    - **Revoir** les notions de SYSML sur le site [NewEcligne](https://sites.google.com/view/newecligne/sysml){target=_blank} ;
-    
-    - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter] ;
-
-
 === "TRAVAIL À FAIRE"
 
     **Finir** sur drawio un dessin présentant les chaines d'information et de puissance de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Interne​​](https://nbviewer.org/github/ericECmorlaix/1SI_2024-2025/blob/main/docs/AF/OutilsAnalyseFonctionnelleInterne.ipynb){target=_blank}​ et le **transmettre** par [mail].
