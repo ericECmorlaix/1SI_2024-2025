@@ -892,6 +892,30 @@
 
     - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
     > source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>{target=_blank}
+***
+## Le 16/09 :
+
+=== "CONTENU DE SÉANCE"
+
+    - Cours [Analyse Fonctionn​elle Interne​​](https://nbviewer.org/github/ericECmorlaix/1SI_2024-2025/blob/main/docs/AF/OutilsAnalyseFonctionnelleInterne.ipynb){target=_blank​}    
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/AF/OutilsAnalyseFonctionnelleInterne.ipynb){ .md-button .md-button--primary } [Capytale n°fef3-3925750](https://capytale2.ac-paris.fr/web/c/fef3-3925750){target=_blank .md-button .md-button--primary }
+        
+    > ==**découvrir** plus avant le SysML et l'outil de dessin vectoriel​​ [Draw.io - Diagrams.net](https://www.drawio.com/){target=_blank} ;==      
+
+    - **Revoir** les notions de SYSML sur le site [NewEcligne](https://sites.google.com/view/newecligne/sysml){target=_blank} ;
+    
+    - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter] ;
+
+
+=== "TRAVAIL À FAIRE"
+
+    **Finir** sur drawio un dessin présentant les chaines d'information et de puissance de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Interne​​](https://nbviewer.org/github/ericECmorlaix/1SI_2024-2025/blob/main/docs/AF/OutilsAnalyseFonctionnelleInterne.ipynb){target=_blank}​ et le **transmettre** par [mail].
+
+    - **Revoir** les notions de SYSML sur le site [NewEcligne](https://sites.google.com/view/newecligne/sysml){target=_blank} ;
+
+    - **Personaliser** [votre classeur numérique pour la SI sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} -> ==**modifier** les fichiers `README.md` et `docs/index.md` qui constituent vos pages d'accueil et **partager** par [mail] des liens en lecture vers ces pages...== ;
+    
+    - **Explorer** plus avant des fonctionnalités des [Notebook Jupyter](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/notebook/){target=_blank} ;
 
 ***
 ## Les 10 et 13/09 :
