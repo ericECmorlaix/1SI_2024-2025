@@ -876,6 +876,23 @@
     - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
     > source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>{target=_blank}
 ***
+## Le 23/09
+
+=== "CONTENU DE SÉANCE"
+
+    - Retour sur la [chaine d'information, notion de numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/ChaineInformation-Numeration.ipynb){target="_blank"} 
+    [Capytale n°f1e8-3992825](https://capytale2.ac-paris.fr/web/c/f1e8-3992825){target=_blank .md-button .md-button--primary }
+    > ==**Corriger** les exercices de conversion *binaire* <-> *décimal*, **découvrir** l'hexadécimal et l'ASCII== ;    
+
+=== "TRAVAIL À FAIRE"
+    
+    - **Finir** tous les exercices de conversion ;
+    
+    - **Revoir** les notions de SYSML sur le site [NewEcligne](https://sites.google.com/view/newecligne/sysml){target=_blank} ;
+
+    - **_Se préparer pour une évaluation en analyse fonctionnelle SYSML + numération et codage de l'information pour le mardi 24/09_**.
+
+    
 ## Le 20/09
 
 === "CONTENU DE SÉANCE"
@@ -888,7 +905,7 @@
 
 === "TRAVAIL À FAIRE"
     
-    - **Finir** les exercices de conversion *binaire* <-> *décimale* ;
+    - **Finir** les exercices de conversion *binaire* <-> *décimal* ;
     
     - **Revoir** les notions de SYSML sur le site [NewEcligne](https://sites.google.com/view/newecligne/sysml){target=_blank} ;
 
