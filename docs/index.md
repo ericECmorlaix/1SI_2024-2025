@@ -890,7 +890,7 @@
     
     - **Revoir** les notions de SYSML sur le site [NewEcligne](https://sites.google.com/view/newecligne/sysml){target=_blank} ;
 
-    - **_Se préparer pour une évaluation en analyse fonctionnelle SYSML + numération et codage de l'information pour le mardi 24/09_**.
+    - **_Se préparer pour une évaluation en analyse fonctionnelle SYSML + numération et codage de l'information pour le vendredi 27/09_**.
 
     
 ## Le 20/09
