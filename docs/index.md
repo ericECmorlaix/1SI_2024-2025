@@ -631,7 +631,7 @@
 === "CONTENU DE SÉANCE"
 
     - **Finaliser** tous les travaux engagés ;
-    - **Poursuivre** l'apprentissage du cours et **se préparer** pour une évaluation sur les énergies, rendement et principales puissances à l'aide des exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} ;
+    
 
 
 === "TRAVAIL À FAIRE"
@@ -646,25 +646,15 @@
 === "CONTENU DE SÉANCE"
 
     - Correction de l'évaluation sur la programmation en Python des IOT du 23/11 ;
-    - **Finir** les schémas des [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} réalisés avec Escalidraw ;
-    - **Finir** votre note littéraire au format MarkDown `note.md` concernant Jean-Marc JANCOVICI ;
-    > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
-
-    - **Lire** le [cours sur les principales puissances](./CP/Les_principales_puissances-Cours.pdf){target=_blank} puis **faire** les [exercices 4, 5 et 6 associés](./CP/Les_principales_puissances-Exercices.pdf){target=_blank}, en vous aidant si besoin du [document ressources présentant l'énergie contenue dans les batteries](./CP/Les_principales_puissances-Document_ressources.pdf){target=_blank} ;
-
-
-=== "TRAVAIL À FAIRE"
     
-    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
-    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
+
+
+    
+ 
     
 ***
 
-## Du 22/11 au 01/12
 
-=== "CONTENU DE SÉANCE"
-
-    - **Lire** le [cours sur les différentes formes d'énergie](./CP/Les différentes formes d'énergie - Cours.pdf){target=_blank}  et **faire** les [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} -> ==Réaliser les schémas avec Escalidraw...== ;
     - Evaluation sur la programmation en Python des IOT le 23/11 ;
 
 === "TRAVAIL À FAIRE"
@@ -802,28 +792,42 @@
     - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} et le **transmettre** par [mail] pour le 06/10.
     [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }
 
-    - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
-    
-    - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} et **transmettre** par [mail] un lien pointant vers votre document... [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
 
-
-***
-## Le 04/10
-
-=== "CONTENU DE SÉANCE"
-
-    - Synthèse partielle de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
-
-=== "TRAVAIL À FAIRE"
-
-    - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
-    
-    - **Télécharger** puis **compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
 -->
 ???+ tip "Astuces"
 
     - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
     > source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>{target=_blank}
+***
+
+## Du 11 au 15/10
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction des évaluations SYSML et [numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Correction_Evaluation_Numeration.ipynb){target="_blank"} ;
+    
+    - Etat d'avancement de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
+    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+
+    - **Lire** le [cours sur les principales puissances](./CP/Les_principales_puissances-Cours.pdf){target=_blank} puis **faire** les [exercices 4, 5 et 6 associés](./CP/Les_principales_puissances-Exercices.pdf){target=_blank}, en vous aidant si besoin du [document ressources présentant l'énergie contenue dans les batteries](./CP/Les_principales_puissances-Document_ressources.pdf){target=_blank} ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** vos comptes rendus numériques des [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et faire de même pour les [exercices 4, 5 et 6 associés](./CP/Les_principales_puissances-Exercices.pdf){target=_blank};
+    - **Finir** votre note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) concernant Jean-Marc JANCOVICI ;
+    > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
+
+    - **Se préparer** à une évaluation sur les énergies, rendement et principales puissances à l'aide des exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} pour le 18/10 ;
+    
+    - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
+    
+    - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
+    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+    
+    - **Revoir** les notions de programmation en Python sur le site [NewEcligne](https://sites.google.com/view/newecligne/programmation/littérale){target=_blank} ;
+
 ***
 
 ## Du 01 au 08/10
@@ -834,7 +838,7 @@
     [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
 
-    - **Lire** le [cours sur les différentes formes d'énergie](./CP/Les différentes formes d'énergie - Cours.pdf){target=_blank}  et **faire** les [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} -> ==Réaliser les schémas avec Escalidraw...== ;
+    - **Lire** le [cours sur les différentes formes d'énergie](./CP/Les différentes formes d'énergie - Cours.pdf){target=_blank}  et **faire** les [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} -> ==**Produire** des comptes rendus numériques en réalisant les schémas avec Escalidraw, drawio,...== ;
     
 
 === "TRAVAIL À FAIRE"
@@ -845,8 +849,8 @@
     [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
         
+    - **Finir** les [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et **produire** des comptes rendus numériques en réalisant les schémas avec Escalidraw, drawio, ... ;
     
-    - **Finir** les [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} ;
     - **Rechercher** qui est Jean-Marc JANCOVICI ? Quelle est son actualité ? Quelles sont ses thèses ? Fait-il l'unanimité ? => ==**Produire** une note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) et **partager** par [mail] un lien pointant vers ce document== ;
 
     - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
