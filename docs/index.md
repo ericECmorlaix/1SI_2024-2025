@@ -789,9 +789,7 @@
 
 === "TRAVAIL À FAIRE"
     
-    - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} et le **transmettre** par [mail] pour le 06/10.
-    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary }
-
+    
 
 -->
 ???+ tip "Astuces"
@@ -799,8 +797,50 @@
     - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
     > source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>{target=_blank}
 
+
 ***
-## Les 04 et 05/11
+## Le 15/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Oraux de présentation des comptes rendus numériques des [exercices liés aux différentes formes d'énergie](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et des [exercices 3, 4 et 5 associés aux principales_puissances](./CP/Les_principales_puissances-Exercices.pdf){target=_blank} ;
+        
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Répondre** aux questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary } pour le 18/11.
+ 
+    
+    - **Finir** votre note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) concernant Jean-Marc JANCOVICI ;
+    > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
+
+    - **Finir** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel et **rendre** le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
+    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+
+***
+
+## Le 12/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation sur les énergies, rendement et principales puissances d'une part et sur la programmation en Python d'IOT - QuickPi d'autre part.
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** vos comptes rendus numériques des [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et faire de même pour les [exercices 3, 4 et 5 associés](./CP/Les_principales_puissances-Exercices.pdf){target=_blank};
+    
+    - **Finir** votre note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) concernant Jean-Marc JANCOVICI ;
+    > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
+
+    - **Finir** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel et **rendre** le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
+    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+
+
+***
+## Les 04, 05 et 08/11
 
 === "CONTENU DE SÉANCE"
 
@@ -819,12 +859,12 @@
     
 === "TRAVAIL À FAIRE"
 
-    - **Finir** vos comptes rendus numériques des [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et faire de même pour les [exercices 4, 5 et 6 associés](./CP/Les_principales_puissances-Exercices.pdf){target=_blank};
+    - **Finir** vos comptes rendus numériques des [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et faire de même pour les [exercices 3, 4 et 5 associés](./CP/Les_principales_puissances-Exercices.pdf){target=_blank};
     - **Finir** votre note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) concernant Jean-Marc JANCOVICI ;
     > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
 
     
-    - **Se préparer** à une évaluation sur les énergies, rendement et principales puissances à l'aide des exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} pour le 08/11 ;
+    - **Se préparer** à une évaluation sur les énergies, rendement et principales puissances à l'aide des exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} pour le 12/11 ;
     - **Poursuivre** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
     
     - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
@@ -849,7 +889,7 @@
     
 === "TRAVAIL À FAIRE"
 
-    - **Finir** vos comptes rendus numériques des [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et faire de même pour les [exercices 4, 5 et 6 associés](./CP/Les_principales_puissances-Exercices.pdf){target=_blank};
+    - **Finir** vos comptes rendus numériques des [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et faire de même pour les [exercices 3, 4 et 5 associés](./CP/Les_principales_puissances-Exercices.pdf){target=_blank};
     - **Finir** votre note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) concernant Jean-Marc JANCOVICI ;
     > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
 
@@ -878,7 +918,7 @@
     
 === "TRAVAIL À FAIRE"
 
-    - **Finir** vos comptes rendus numériques des [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et faire de même pour les [exercices 4, 5 et 6 associés](./CP/Les_principales_puissances-Exercices.pdf){target=_blank};
+    - **Finir** vos comptes rendus numériques des [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et faire de même pour les [exercices 3, 4 et 5 associés](./CP/Les_principales_puissances-Exercices.pdf){target=_blank};
     - **Finir** votre note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) concernant Jean-Marc JANCOVICI ;
     > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
 
