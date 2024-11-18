@@ -784,8 +784,7 @@
 
 === "CONTENU DE SÉANCE"
 
-    - [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Initial.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== ;
-    [:fontawesome-solid-download: Télécharger le notebook du cours](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Initial.ipynb){ .md-button .md-button--primary }
+    
 
 === "TRAVAIL À FAIRE"
     
@@ -799,7 +798,34 @@
 
 
 ***
-## Le 15/11
+## Le 17/11
+
+=== "CONTENU DE SÉANCE"
+
+    - Fin des oraux de présentation des comptes rendus numériques des [exercices liés aux différentes formes d'énergie](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} et des [exercices 3, 4 et 5 associés aux principales_puissances](./CP/Les_principales_puissances-Exercices.pdf){target=_blank} ;
+
+    - Correction des questions du notebook [Fonctions_Logiques-Google_doodle.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Google_doodle.ipynb){target="_blank"} sur [Capytale n° 0e33-4601596](https://capytale2.ac-paris.fr/web/c/0e33-4601596){target=_blank .md-button .md-button--primary }
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Google_doodle.ipynb){ .md-button .md-button--primary } ;
+
+    - [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Initial.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== 
+    [Capytale n° a668-4632567](https://capytale2.ac-paris.fr/web/c/a668-4632567){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Initial.ipynb){ .md-button .md-button--primary } ;
+
+
+        
+    
+=== "TRAVAIL À FAIRE"
+
+       
+    - **Finir** votre note littéraire au format MarkDown `note.md` (ou `notebook.ipynb`) concernant Jean-Marc JANCOVICI ;
+    > ==**Partager** par [mail] les liens pointants vers ces documents de votre classeur numérique== ;
+
+    - **Finir** la programmation de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel et **rendre** le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
+    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+
+***
+## Des 15 et 18/11
 
 === "CONTENU DE SÉANCE"
 
