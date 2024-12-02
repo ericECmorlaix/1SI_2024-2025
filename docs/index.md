@@ -716,60 +716,37 @@
 
     - Evaluation sur les fonctions logiques de la chaine d'information ;
 
-=== "TRAVAIL À FAIRE"
-    
-    - **Faire** les exercices du [DM fonctions logiques](./CI/ChaineInformation-Exercices_DM.pdf){target="_blank"}  ;
-
-
-
-    - **Poursuivre** l'étude expérimentale de la logique de commande d'un [Lève Vitre Electrique](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} et **transmettre** par [mail] un lien pointant vers votre document.
-    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
-
-    - Synthèse de [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Suite.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== ;
-    [:fontawesome-solid-download: Télécharger le notebook du cours](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Suite.ipynb){ .md-button .md-button--primary }
-
-
-=== "TRAVAIL À FAIRE"
-    
-    - Se préparer pour une ==évaluation sur les fonctions logiques pour le 20/10== en faisant les exercices d'entrainement supplémentaires :
-        - [Ex1- Lecture d'un logigramme européen](./CI/Ex1-Lecture_d_un_logigramme_europeen.pdf){target=_blank} ;
-        - [Ex2- Lecture d'une table de vérité](./CI/Ex2-Lecture_table_de_verite.pdf){target=_blank} ;
-        - [Ex3- Construire un logigramme hétérogène américain.pdf](./CI/Ex3-Construire_un_logigramme_heterogene_americain.pdf){target=_blank} ;
-        - [Ex4- Construire une table de vérité](./CI/Ex4-Construire_une_table_de_verite.pdf){target=_blank} ;
-
-    - **Poursuivre** [Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} et **transmettre** par [mail] un lien pointant vers votre document.
-    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
-
-***
-## Le 11/10 : (1h)
-
-=== "CONTENU DE SÉANCE"
-
-    - Poursuite de [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Suite.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== ;
-    [:fontawesome-solid-download: Télécharger le notebook du cours](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Suite.ipynb){ .md-button .md-button--primary }
-
-    - Application à l'étude de la logique de commande d'un [Lève Vitre Electrique](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} et **transmettre** par [mail] un lien pointant vers votre document.
-    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
-
-
-=== "TRAVAIL À FAIRE"
-    
-    - **Poursuivre** [Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} et **transmettre** par [mail] un lien pointant vers votre document.
-    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
-
-=== "TRAVAIL À FAIRE"
-    
-    - **Commencer** [Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} et **transmettre** par [mail] un lien pointant vers votre document.
-    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
-
-    
-    
+=== "TRAVAIL À FAIRE"    
 
 -->
 ???+ tip "Astuces"
 
     - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
     > source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>{target=_blank}
+
+***
+## Les 02 et 03/12
+
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse de la [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Initial.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== 
+    [Capytale n° a668-4632567](https://capytale2.ac-paris.fr/web/c/a668-4632567){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Initial.ipynb){ .md-button .md-button--primary } ;
+
+    - TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/docs/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
+    [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
+
+       
+=== "TRAVAIL À FAIRE"
+
+    - Se préparer pour une ==évaluation sur les fonctions logiques== en faisant les exercices d'entrainement :
+        - [Ex1- Lecture d'un logigramme européen](./CI/Ex1-Lecture_d_un_logigramme_europeen.pdf){target=_blank} ;
+        - [Ex2- Lecture d'une table de vérité](./CI/Ex2-Lecture_table_de_verite.pdf){target=_blank} ;
+        - [Ex3- Construire un logigramme hétérogène américain.pdf](./CI/Ex3-Construire_un_logigramme_heterogene_americain.pdf){target=_blank} ;
+        - [Ex4- Construire une table de vérité](./CI/Ex4-Construire_une_table_de_verite.pdf){target=_blank} ; 
+
+    - **Faire** les exercices du [DM fonctions logiques](./CI/ChaineInformation-Exercices_DM.pdf){target="_blank"}  ;
 
 ***
 ## Le 29/11
