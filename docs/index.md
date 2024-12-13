@@ -572,25 +572,15 @@
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ru8dkyCuwIE?si=MeHKh8PVMWFsfVEN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </center>
 
-=== "TRAVAIL À FAIRE"
-    
-    - **Rendre** tous les travaux engagés ;
     - **Poursuivre** votre prise en main d'Onshape afin de **réaliser** le modèle 3D d'un assemblage de Lego "Classic" pour le [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
-    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
-    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
-***
+
 ## Les 17, 18 et 19/01
 
 === "CONTENU DE SÉANCE"
 
     - [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) : rétrospective du sprint 0, réalisation du sprint 1 ;
 
-=== "TRAVAIL À FAIRE"
-    
-    - **Rendre** tous les travaux engagés ;
-    - **Poursuivre** votre prise en main d'Onshape afin de **réaliser** le modèle 3D d'un assemblage de Lego "Classic" pour le [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
-    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
-    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
+
 
 ***
 ## Les 10, 11 et 12/01
@@ -601,69 +591,21 @@
 
 === "TRAVAIL À FAIRE"
     
-    - **Rendre** tous les travaux engagés ;
+
     - **Poursuivre** votre prise en main d'Onshape afin de **réaliser** le modèle 3D d'au moins une pièce de Lego "Classic" pour le [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
-    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
-    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
-
-***
-## Les 20, 21 et 22/12
-
-=== "CONTENU DE SÉANCE"
-
-    - **Finaliser** tous les travaux engagés ;
-    - **Poursuivre** l'apprentissage du cours et **se préparer** pour une évaluation programmée le 21/12 sur les énergies, rendement et principales puissances à l'aide des exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} ;
-    - **Prendre** en main Onshape afin de **réaliser** le modèle 3D d'au moins une pièce de Lego "Classic" pour le [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
 
 
-
-=== "TRAVAIL À FAIRE"
-    
-    - **Poursuivre** votre prise en main d'Onshape afin de **réaliser** le modèle 3D d'au moins une pièce de Lego "Classic" pour le [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
     - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
     - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
         
 
 
-***
-## Les 13, 14 et 15/12
+    
 
-=== "CONTENU DE SÉANCE"
-
-    - **Finaliser** tous les travaux engagés ;
     
 
 
-=== "TRAVAIL À FAIRE"
-    
-    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
-    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
-    
-***
 
-## Les 06, 07 et 08/12
-
-=== "CONTENU DE SÉANCE"
-
-    - Correction de l'évaluation sur la programmation en Python des IOT du 23/11 ;
-    
-
-
-    
- 
-    
-***
-
-
-    - Evaluation sur la programmation en Python des IOT le 23/11 ;
-
-=== "TRAVAIL À FAIRE"
-
-    - **Rendre** tous les travaux restant en souffrances ;
-    - **Finir** les [exercices](./CP/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} ;
-    - **Rechercher** qui est Jean-Marc JANCOVICI ? Quelle est son actualité ? Quelles sont ses thèses ? Fait-il l'unanimité ? => ==**Produire** une note littéraire au format MarkDown `note.md` et **partager** par [mail] un lien pointant vers ce document== ;
-    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
-    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ; et des extensions  ;
 
 ***
 ## Les 09 et 10/11 (2h + 1h)
@@ -676,47 +618,17 @@
     - Synthèse finale de la [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Suite.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== ;
     [:fontawesome-solid-download: Télécharger le notebook du cours](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Suite.ipynb){ .md-button .md-button--primary }
 
-    - Synthèse partielle du Parcours_1 de la programmation en Python de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
-
-
-=== "TRAVAIL À FAIRE"
-    
-    - **Rendre**  les exercices du [DM fonctions logiques](./CI/ChaineInformation-Exercices_DM.pdf){target="_blank"}  ;
-
-    - **Finir** le Parcours_1 de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel et ==se préparer pour une évaluation sur la programmation en Python des IOT== ;
-    
-    - **Compléter** le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} et le **transmettre** par [mail]. [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
 
 
 
 
-***
-## Le 08/11 (1h)
-
-=== "CONTENU DE SÉANCE"
-
-    - Correction des évaluations SYSML, [numération](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Correction_Evaluation_Numeration.ipynb){target="_blank"} et fonctions logiques de la chaine d'information ;
-
-    - Synthèse partielle du Parcours_1 de la programmation en Python de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
 
 
-=== "TRAVAIL À FAIRE"
-    
-    - **Finir**  les exercices du [DM fonctions logiques](./CI/ChaineInformation-Exercices_DM.pdf){target="_blank"}  ;
-
-    - **Finir** le Parcours_1 de la carte [**QuickPi**](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel et ==se préparer pour une évaluation sur la programmation en Python des IOT== ;
-    
-    - **Compléter** le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} et le **transmettre** par [mail]. [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary}
 
 
-***
-## Le 20/10 (1h)
 
-=== "CONTENU DE SÉANCE"
 
-    - Evaluation sur les fonctions logiques de la chaine d'information ;
-
-=== "TRAVAIL À FAIRE"    
+  
 
 -->
 ???+ tip "Astuces"
@@ -725,7 +637,24 @@
     > source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>{target=_blank}
 
 ***
-## Les 02 et 03/12
+## Le 13/12
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation sur les fonctions logiques de la chaine d'information ;
+
+    - **Poursuivre** le TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/docs/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
+    [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
+
+       
+=== "TRAVAIL À FAIRE"
+    
+    - **Faire** les exercices du [DM fonctions logiques](./CI/ChaineInformation-Exercices_DM.pdf){target="_blank"}  ;
+
+
+***
+## Du 02/12
 
 === "CONTENU DE SÉANCE"
 
