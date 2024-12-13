@@ -643,6 +643,8 @@
 
     - Evaluation sur les fonctions logiques de la chaine d'information ;
 
+    - **Prendre** en main le logiciel [OnShape](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"}
+
     - **Poursuivre** le TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/docs/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
     [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
