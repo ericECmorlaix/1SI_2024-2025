@@ -637,6 +637,24 @@
     > source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>{target=_blank}
 
 ***
+## Le 17/12
+
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse de la prise en main du logiciel [OnShape](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"} ;
+
+    - Sprint_0 du [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
+
+       
+=== "TRAVAIL À FAIRE"
+    
+    - **Faire** les exercices du [DM fonctions logiques](./CI/ChaineInformation-Exercices_DM.pdf){target="_blank"}  ;
+    - **Rendre** les travaux du TP d'application à la [logique de commande d'un lève-vitre](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/docs/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){target="_blank"} 
+    [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
+
+
+***
 ## Le 13/12
 
 === "CONTENU DE SÉANCE"

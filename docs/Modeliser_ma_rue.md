@@ -46,7 +46,8 @@ Cependant, les pièces de Lego dont nous disposons au laboratoire de SI sont tr�
 
 Différentes solutions logicielles permettent de réaliser des constructions virtuelles à base de LEGO, nous utiliserons **OnShape** qui fonctionne sur PC comme sur iPad, avec la possibilité de partager nos réalisations en ligne et potentiellement d'exporter nos pièces personalisées pour les fabriquer en impression 3D...
 
-??? example "Si vous ne connaissez pas l'application **OnShape** il va vous falloir préalablement la prendre en main : ..."
+!!! tip "Si vous ne connaissez pas l'application **OnShape** il va vous falloir préalablement la [prendre en main](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/)."
+
 
     
 ***
@@ -186,7 +187,7 @@ Et avec l'aide des vidéos de Ms. DANZI suivantes :
 - Partager votre réalisation avec les autres élèves du groupe ;
 
 - Réaliser l'assemblage d'une de vos réalisations avec celle d'un de vos pairs ;
- 
+<!-- 
 ### Rétrospective du Sprint 0
 
 Présentation et mise à disposition d'une [solution évoluée](https://cad.onshape.com/documents/eae7d5dbadf240e2acc49d39/w/a3ba5b49acc41fe9c2ed9468/e/6a103ab37cde86b04256cc6e?configuration=List_6JeGb3He5zHqFj%3DLime%3BList_AyxwWtoVtiHp1b%3D_2%3BList_j3AykOuNpacazF%3D_12%3BList_tOBXK0dASudqmA%3DPar_d_faut&renderMode=0&uiState=6391b74abfe4b3687020e513)
@@ -198,7 +199,7 @@ Présentation et mise à disposition d'une [solution évoluée](https://cad.onsh
 ##  Sprint 1, mise en application du workflow
 
 A vous de vous organiser en équipe pour produire la maquette d'un premier immeuble conforme aux attendus du Product Owner...
-<!-- 
+ 
 ### Rétrospective du Sprint 1
 
 Organiser une réunion de rétrospective du Sprint 1, relever la tête du guidon et résumer ci-dessous les points à retenir :
@@ -227,11 +228,7 @@ Organiser une réunion de rétrospective du Sprint 1, relever la tête du guidon
 
 ### Modélisation 3D
 
-- [eduscol_ressources-pedagogiques_onshape-modeleur-3d](https://eduscol.education.fr/sti/ressources_pedagogiques/onshape-modeleur-3d-saas-presentation-0#description){target="_blank"}
-
-- [cours de modélisation 3D de M. Lossendière​​](https://scenari.techno-melh.xyz/modelisation-3d/co/modelisation-3D-MELH.html){target="_blank"}
-
-- [onshape-un-logiciel-professionnel-de-modelisation-3d-innovant-et-gratuit-pour-un-usage-pedagogique](https://blogpeda.ac-poitiers.fr/lp2i-si/2016/09/09/onshape-un-logiciel-professionnel-de-modelisation-3d-innovant-et-gratuit-pour-un-usage-pedagogique/){target="_blank"}
+- [3D/Onshape/](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/Onshape/){target="_blank"}
 
 ### SCRUM
 
