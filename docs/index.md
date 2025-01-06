@@ -578,21 +578,9 @@
 
 === "CONTENU DE SÉANCE"
 
-    - [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) : rétrospective du sprint 0, réalisation du sprint 1 ;
-
-
-
-***
-## Les 10, 11 et 12/01
-
-=== "CONTENU DE SÉANCE"
-
-    - **Prendre** en main Onshape afin de **réaliser** le modèle 3D d'au moins une pièce de Lego "Classic" pour le [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
-
-=== "TRAVAIL À FAIRE"
     
 
-    - **Poursuivre** votre prise en main d'Onshape afin de **réaliser** le modèle 3D d'au moins une pièce de Lego "Classic" pour le [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
+
 
 
     - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
@@ -635,6 +623,18 @@
 
     - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
     > source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>{target=_blank}
+
+***
+## Du 06/01
+
+=== "CONTENU DE SÉANCE"
+
+    - [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) : rétrospective du sprint 0, réalisation du sprint 1 ;
+       
+=== "TRAVAIL À FAIRE"
+    
+    - **Finir** les exercices du [DM fonctions logiques](./CI/ChaineInformation-Exercices_DM.pdf){target="_blank"}  ;
+ 
 
 ***
 ## Le 17/12
