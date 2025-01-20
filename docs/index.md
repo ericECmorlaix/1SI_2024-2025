@@ -625,6 +625,20 @@
     > source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>{target=_blank}
 
 ***
+## Du 20/01
+
+=== "CONTENU DE SÉANCE"
+
+    - **Progresser** en programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} :
+            - à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"}​ en utilisant le code `bcdnystx` fourni​​​ pour débuter le **Parcours_2** ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_2.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target=_blank} 
+        [Capytale n° 4ba8-4360814](https://capytale2.ac-paris.fr/web/c/4ba8-4360814){target=_blank .md-button .md-button--primary } 
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary} ;
+
+***
 ## Du 06/01
 
 === "CONTENU DE SÉANCE"
