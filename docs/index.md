@@ -358,11 +358,7 @@
 
     - Lire le [cours sur les principales puissances](./CP/Les_principales_puissances-Cours.pdf){target=_blank} et appliquer à l'étude d'un [mini-compresseur](./CP/Les_principales_puissances-Exercice_Mini-Compresseur.pdf){target=_blank} en observant le système et sa [maquette numérique](./CP/mini-compresseur.zip) ;
 
-=== "TRAVAIL À FAIRE"
 
-    - Explorer d'avantage [les fonctionnalités de l'application multiplateforme Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;    
-    - Rechercher qui est Jean-Marc JANCOVICI ? Quelle est son actualité ? Quelles sont ses thèses ? Fait-il l'unanimité ?
-    - Faire les [exercices supplémentaires sur les principales puissances](./CP/Les_principales_puissances-Exercices_supplementaires.pdf){target=_blank}
 
 
 
@@ -373,15 +369,6 @@
         - [Ex2- Lecture d'une table de vérité](./CI/Ex2-Lecture_table_de_verite.pdf){target=_blank} (+ présentation tableau de [Karnaugh](https://www.positron-libre.com/cours/electronique/logique-combinatoire/tableau-karnaugh/tableau-karnaugh.php){target=_blank});
 
    
-
-=== "TRAVAIL À FAIRE"
-
-    
-    
-    - **Finir** l'expérimentation des [Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} : ==**Convertir** le `notebook.ipynb` de Carnets complété en `note.md` d'Obsidian et   les **transmettre** par [mail]==.
-    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
-
-***
 
 
     
@@ -554,29 +541,15 @@
         - **Programmer** les broches d'Entrées/Sorties d'une carte BBC micro:bit pour interagir avec les composants  montés sur une breadboard (LED, BP, Potentiomètre, ...) et avec ceux de [cartes d'extensions robotiques présentes au labo de SI](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/#cartes-dextensions){target="_blank"}...        
 
     
-=== "TRAVAIL À FAIRE"
-    
-    - **Rendre** tous les travaux engagés ;
-    
-    - **Exploiter**  les fonctionnalités de l'application multiplateforme [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank} ;
-    - **Exploiter**  les fonctionnalités de l'application [Excalidraw](https://excalidraw.com/){target=_blank} et de ses extensions pour [VS Code](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor){target=_blank} et pour [Obsidian](https://github.com/zsviczian/obsidian-excalidraw-plugin){target=_blank} ;
+
 ***
-## Le 31/01
 
-=== "CONTENU DE SÉANCE"
-
-    - [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) : rétrospective orale du sprint 1 ;
     - Présentation d'une piste de projet : [le challenge robotique Brestois](./Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
     
     <center>
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ru8dkyCuwIE?si=MeHKh8PVMWFsfVEN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </center>
 
-    - **Poursuivre** votre prise en main d'Onshape afin de **réaliser** le modèle 3D d'un assemblage de Lego "Classic" pour le [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
-
-## Les 17, 18 et 19/01
-
-=== "CONTENU DE SÉANCE"
 
     
 
@@ -588,33 +561,6 @@
         
 
 
-    
-
-    
-
-
-
-
-***
-## Les 09 et 10/11 (2h + 1h)
-
-=== "CONTENU DE SÉANCE"
-
-    - **Finir** l'étude expérimentale de la logique de commande d'un [Lève Vitre Electrique](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} et **transmettre** par [mail] votre document.
-    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
-
-    - Synthèse finale de la [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Suite.ipynb){target="_blank"} ->==**Décrire** la logique d'un Va & Vient...== ;
-    [:fontawesome-solid-download: Télécharger le notebook du cours](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Suite.ipynb){ .md-button .md-button--primary }
-
-
-
-
-
-
-
-
-
-
 
   
 
@@ -623,6 +569,38 @@
 
     - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
     > source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>{target=_blank}
+
+***
+## Du 28/01
+
+=== "CONTENU DE SÉANCE"
+
+    - Etat d'avancement en programmation des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} ;
+
+    - **Finaliser** l'étude expérimentale de la logique séquentielle de commande d'un [Lève Vitre Electrique](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"}
+    [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary }
+    [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary }
+
+    - Synthèse finale de la [Logique de la chaine d'information](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Suite.ipynb){target="_blank"} ;
+    [Capytale n° a668-4632567](https://capytale2.ac-paris.fr/web/c/a668-4632567){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Suite.ipynb){ .md-button .md-button--primary }
+ 
+
+=== "TRAVAIL À FAIRE"
+
+    - Complément, exemples de réalisations de fonctions logiques avec des transistors, **reconnaitre** les fonctions simulées :
+
+        - <https://tinyurl.com/y6ca4dwn>{target="_blank"} ;
+        - <https://tinyurl.com/y62j9dxj>{target="_blank"} ;
+        - <https://tinyurl.com/y4pmexnc>{target="_blank"} ;
+        - <https://tinyurl.com/yya89b6n>{target="_blank"} ;
+        - <https://tinyurl.com/y56od8rh>{target="_blank"}...  
+        > Ces circuits utilisent des transistors bipolaires inventés en 1948.
+        > [Aujourd'hui le transistor MOS constitue, par sa simplicité de fabrication et ses performances, l'élément de base des circuits intégrés](https://openclassrooms.com/fr/courses/5439146-faites-vos-premiers-pas-dans-le-monde-de-l-electronique-numerique/5693601-implementez-une-porte-logique-a-base-de-transistors-mos)...
+    
+    - **Compléter** progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_2.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target=_blank} 
+        [Capytale n° 4ba8-4360814](https://capytale2.ac-paris.fr/web/c/4ba8-4360814){target=_blank .md-button .md-button--primary } 
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary} ;
 
 ***
 ## Du 20/01
