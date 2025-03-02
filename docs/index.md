@@ -454,93 +454,13 @@
 ## Les 20 et 21/03
 
 === "CONTENU DE SÉANCE"
-
-    - Modélisation cinématique des mécanismes, [les liaisons](./SC/FC_Modelisation_Cinematique-les_liaisons.pdf){target=_blank} :
-    
-        - **Compléter** le [tableau des liaisons cinématiques](./SC/Tableau_des_Liaisons_à_compléter.pdf){target=_blank} à partir des vidéos de la playlist [Liaisons](https://youtube.com/playlist?list=PLbgyzlFvLKk2_oAjSikC8i2qf4JqE8A7r){target=_blank} et des cours du site [NEWECLIGNE](https://sites.google.com/view/newecligne/m%C3%A9canique/mod%C3%A9lisation){target=_blank} concernant les [contacts](https://docs.google.com/presentation/d/e/2PACX-1vSZ-0bSgMVY0jn7jnZsSwrG4Fnxgquoe-UFWLtxLezknVQ1daFrILxLiXhOLIj2ry_x3c-lMH3L-Sgy/pub?start=false&loop=false&delayms=60000&slide=id.p){target=_blank} et les [liaisons](https://docs.google.com/presentation/d/e/2PACX-1vQImG_3mGTzPloqeHZ6yebrBvQ9OFDDH0EJ6ntr5kC39dfuxKIvysbVWn-JGwdRRbEmDKoDwCQXKryj/pub?start=false&loop=false&delayms=60000&slide=id.p){target=_blank} ;
-
-        - **Copier** le document Onshape [Liaisons](https://cad.onshape.com/documents/bdb0077e0fd32049b04b87f6/w/49b5b364a55394ba411ac26b/e/e45c2be32f93d5c667ef864a){target=_blank} et y **créer** des assemblages représentatifs des différentes liaisons...
-        
-
-=== "TRAVAIL À FAIRE"
-
-    - **Faire** les exercices [contacts](https://perso.crans.org/geneau/NewCligne/ressources/contact_exo.html){target=_blank} et [liaisons](https://perso.crans.org/geneau/NewCligne/ressources/liaison_exo.html){target=_blank} ;
-    - Projet : [le challenge robotique Brestois](./Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
-
-***
-## Le 15 et 16/03
-
-=== "CONTENU DE SÉANCE"
-    
-    - Projet : [le challenge robotique Brestois](./Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
-    
-        - **Programmer** les broches d'Entrées/Sorties d'une carte BBC micro:bit pour [piloter des moteurs](https://ericecmorlaix.github.io/1SI_2024-2025/Projet/Robotique/#piloter-des-moteurs){target="_blank"}...
-    
-=== "TRAVAIL À FAIRE"
-
-    - **Faire** les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2024-2025/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
-***
-
-## Le 14/03
-
-=== "CONTENU DE SÉANCE"
-
-    - Correction de l'évaluation sur les lois électriques ;        
-     
-=== "TRAVAIL À FAIRE"
-
-    - **Faire** les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2024-2025/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
-***
-
-## Les 21 et 22/02
-
-=== "CONTENU DE SÉANCE"
-
-    - Correction de l'évaluation Energie, Puissance et rendement ;
-
-    - Correction des exercices du notebook [`Circuit_Electrique.ipynb`](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/EL/Circuit_Electrique.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/EL/Circuit_Electrique.ipynb){ .md-button .md-button--primary}
-    
-    - Projet : [le challenge robotique Brestois](./Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
-    
-        - **Programmer** les broches d'Entrées/Sorties d'une carte BBC micro:bit pour [piloter des moteurs](https://ericecmorlaix.github.io/1SI_2024-2025/Projet/Robotique/#piloter-des-moteurs){target="_blank"}...
-
-    
-     
-=== "TRAVAIL À FAIRE"
-
-    - Réviser et s'entrainer pour une évaluation à partir de la page [newecligne/electricité](https://sites.google.com/view/newecligne/electricit%C3%A9){target=_blank} ;
-    - **Faire** les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2024-2025/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
-***
-## Du 09/02
-
-=== "CONTENU DE SÉANCE"
-
-    - Projet : [le challenge robotique Brestois](./Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
-    
-        - **Programmer** les broches d'Entrées/Sorties d'une carte BBC micro:bit pour interagir avec les composants  montés sur des [cartes d'extensions robotiques présentes au labo de SI](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/#cartes-dextensions){target="_blank"}...
-
-    - **Lire** [Circuits_Electriques-Introduction.pdf](./EL/Circuits_Electriques-Introduction.pdf){target=_blank}  et **Faire** les activités du notebook [`Circuit_Electrique.ipynb`](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/EL/Circuit_Electrique.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/EL/Circuit_Electrique.ipynb){ .md-button .md-button--primary}
-     
-=== "TRAVAIL À FAIRE"
-
-    - Réviser et s'entrainer pour une évaluation à partir de la page [newecligne/electricité](https://sites.google.com/view/newecligne/electricit%C3%A9){target=_blank} ;
-    - **Faire** les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2024-2025/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
-
-
-***
-## Du 01 au 08/02
-
-=== "CONTENU DE SÉANCE"
-
-    - Projet : [le challenge robotique Brestois](./Projet/Challenge_Robotique_SI_Brestois.pdf){target=_blank} ;
     
         - [Robotique - Programmer la fonction traiter en MicroPython sur BBC micro:bit](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/Projet/Robotique-La_fonction_traiter_en_µPython-BBC_microbit.ipynb){target="_blank"} ; [:fontawesome-solid-download: Télécharger le notebook de l'exercice d'application](https://ericecmorlaix.github.io/1SI_2024-2025/Projet/Robotique-La_fonction_traiter_en_µPython-BBC_microbit.ipynb){ .md-button .md-button--primary }
 
         - **Programmer** les broches d'Entrées/Sorties d'une carte BBC micro:bit pour interagir avec les composants  montés sur une breadboard (LED, BP, Potentiomètre, ...) et avec ceux de [cartes d'extensions robotiques présentes au labo de SI](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/#cartes-dextensions){target="_blank"}...        
-
     
+        - **Programmer** les broches d'Entrées/Sorties d'une carte BBC micro:bit pour [piloter des moteurs](https://ericecmorlaix.github.io/1SI_2024-2025/Projet/Robotique/#piloter-des-moteurs){target="_blank"}...
+
 
 ***
 
@@ -570,6 +490,37 @@
     - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
     > source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>{target=_blank}
 
+
+***
+
+## Le 03/03
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction de l'évaluation sur les lois électriques et la programmation en Python des objets connectés ;
+
+    - Modélisation cinématique des mécanismes, [les liaisons](./SC/FC_Modelisation_Cinematique-les_liaisons.pdf){target=_blank} :
+    
+        - **Compléter** le [tableau des liaisons cinématiques](./SC/Tableau_des_Liaisons_à_compléter.pdf){target=_blank}
+         à partir des vidéos de la playlist [Liaisons](https://youtube.com/playlist?list=PLbgyzlFvLKk2_oAjSikC8i2qf4JqE8A7r){target=_blank}
+          et des cours du site [NEWECLIGNE](https://sites.google.com/view/newecligne/m%C3%A9canique/mod%C3%A9lisation){target=_blank}
+           concernant les [contacts](https://docs.google.com/presentation/d/e/2PACX-1vSZ-0bSgMVY0jn7jnZsSwrG4Fnxgquoe-UFWLtxLezknVQ1daFrILxLiXhOLIj2ry_x3c-lMH3L-Sgy/pub?start=false&loop=false&delayms=60000&slide=id.p){target=_blank}
+            et les [liaisons](https://docs.google.com/presentation/d/e/2PACX-1vQImG_3mGTzPloqeHZ6yebrBvQ9OFDDH0EJ6ntr5kC39dfuxKIvysbVWn-JGwdRRbEmDKoDwCQXKryj/pub?start=false&loop=false&delayms=60000&slide=id.p){target=_blank} ;
+
+        - **Copier** le document Onshape [Liaisons](https://cad.onshape.com/documents/bdb0077e0fd32049b04b87f6/w/49b5b364a55394ba411ac26b/e/e45c2be32f93d5c667ef864a){target=_blank}
+         et y **créer** des assemblages représentatifs des différentes liaisons...
+        
+
+=== "TRAVAIL À FAIRE"
+
+    - **Faire** les exercices [contacts](https://perso.crans.org/geneau/NewCligne/ressources/contact_exo.html){target=_blank} et [liaisons](https://perso.crans.org/geneau/NewCligne/ressources/liaison_exo.html){target=_blank} ;
+
+    - **Rendre** les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2024-2025/EL/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
+
+    - **Rendre* le notebook [Quick_Pi-Objets_connectes-Parcours_2.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target=_blank} 
+        [Capytale n° 4ba8-4360814](https://capytale2.ac-paris.fr/web/c/4ba8-4360814){target=_blank .md-button .md-button--primary } 
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary} ;
+    
 ***
 ## Du 04/02
 
