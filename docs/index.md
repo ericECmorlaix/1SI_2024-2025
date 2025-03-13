@@ -472,12 +472,17 @@
             - [TD_Serre_Joint](./SC/TD_Modelisation_Cinematique_Serre_Joint.pdf){target=_blank} à partir de la maquette [Serre_Joint_3D](./SC/Serre joint a pompe.zip) ;
             - [TP_Scie_Sauteuse](./SC/TP_Modelisation_Cinematique_Scie_Sauteuse.pdf){target=_blank} à partir de la maquette [Scie Sauteuse ERM](./SC/Scie Sauteuse ERM.zip) ;
 
-        - Distributeur de savon.
-
+        - [TP_NoTouch-Volume](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/EP/NoTouch/TP_NoTouch-Volume.ipynb){target=_blank} | 
+        [Capytale n° ee1a-5957166](https://capytale2.ac-paris.fr/web/c/ee1a-5957166){target=_blank .md-button .md-button--primary } | 
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/EP/NoTouch/TP_NoTouch-Volume.ipynb){ .md-button .md-button--primary} ;
+                
         - [TP_MetaBird_Frequence](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/EP/MetaBird/TP_MetaBird-Frequence.ipynb){target=_blank} | 
         [Capytale n° 6215-5948254](https://capytale2.ac-paris.fr/web/c/6215-5948254){target=_blank .md-button .md-button--primary } | 
         [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/EP/MetaBird/TP_MetaBird-Frequence.ipynb){ .md-button .md-button--primary} ;
 
+        - **Décrire** vos projets envisagés sur [Capytale n° 8cd5-5957185](https://capytale2.ac-paris.fr/web/c/8cd5-5957185){target=_blank .md-button .md-button--primary } ;
+
+        
     - Activités déjà réalisées :
 
         - [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
