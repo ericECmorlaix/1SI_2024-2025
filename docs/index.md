@@ -462,6 +462,44 @@
     > source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>{target=_blank}
 
 ***
+## Les 14 et 15/03 Portes Ouvertes
+
+=== "CONTENU DE SÉANCE"
+
+    - Activités à réaliser :
+
+        - Modélisation cinématique des mécanismes :
+            - [TD_Serre_Joint](./SC/TD_Modelisation_Cinematique_Serre_Joint.pdf){target=_blank} à partir de la maquette [Serre_Joint_3D](./SC/Serre joint a pompe.zip) ;
+            - [TP_Scie_Sauteuse](./SC/TP_Modelisation_Cinematique_Scie_Sauteuse.pdf){target=_blank} à partir de la maquette [Scie Sauteuse ERM](./SC/Scie Sauteuse ERM.zip) ;
+
+        - Distributeur de savon
+
+        - MetaBird
+
+    - Activités déjà réalisées :
+
+        - [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
+        - [`Circuit_Electrique.ipynb`](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/EL/Circuit_Electrique.ipynb){target=_blank} | 
+        [Capytale n° 7821-5555296](https://capytale2.ac-paris.fr/web/c/7821-5555296){target=_blank .md-button .md-button--primary } | 
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/EL/Circuit_Electrique.ipynb){ .md-button .md-button--primary} ;
+        - Logique séquentielle de commande d'un [Lève Vitre Electrique](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} | 
+        [Capytale n° bc8a-4825490](https://capytale2.ac-paris.fr/web/c/bc8a-4825490){target=_blank .md-button .md-button--primary } | 
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/CI/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){ .md-button .md-button--primary } ;
+        - [Quick_Pi-Objets_connectes-Parcours_2.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target=_blank} | 
+        [Capytale n° 4ba8-4360814](https://capytale2.ac-paris.fr/web/c/4ba8-4360814){target=_blank .md-button .md-button--primary } | [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_2.ipynb){ .md-button .md-button--primary} ;
+        - [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} | 
+        [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } | 
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les exercices [contacts](https://perso.crans.org/geneau/NewCligne/ressources/contact_exo.html){target=_blank} et [liaisons](https://perso.crans.org/geneau/NewCligne/ressources/liaison_exo.html){target=_blank} ;
+
+    - **Finir** les exercices de la page [schéma cinématique](https://sites.google.com/view/newecligne/m%C3%A9canique/mod%C3%A9lisation#h.7lox99tb9kg1){target=_blank} ;
+
+
+***
 ## Les 07, 10 et 11/03
 
 === "CONTENU DE SÉANCE"
