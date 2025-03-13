@@ -472,9 +472,11 @@
             - [TD_Serre_Joint](./SC/TD_Modelisation_Cinematique_Serre_Joint.pdf){target=_blank} à partir de la maquette [Serre_Joint_3D](./SC/Serre joint a pompe.zip) ;
             - [TP_Scie_Sauteuse](./SC/TP_Modelisation_Cinematique_Scie_Sauteuse.pdf){target=_blank} à partir de la maquette [Scie Sauteuse ERM](./SC/Scie Sauteuse ERM.zip) ;
 
-        - Distributeur de savon
+        - Distributeur de savon.
 
-        - MetaBird
+        - [TP_MetaBird_Frequence](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/EP/MetaBird/TP_MetaBird-Frequence.ipynb){target=_blank} | 
+        [Capytale n° 6215-5948254](https://capytale2.ac-paris.fr/web/c/6215-5948254){target=_blank .md-button .md-button--primary } | 
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/EP/MetaBird/TP_MetaBird-Frequence.ipynb){ .md-button .md-button--primary} ;
 
     - Activités déjà réalisées :
 
