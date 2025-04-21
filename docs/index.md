@@ -202,6 +202,33 @@
     - **Finir** les exercices de la page [schéma cinématique](https://sites.google.com/view/newecligne/m%C3%A9canique/mod%C3%A9lisation#h.7lox99tb9kg1){target=_blank} ;
 
 ***
+
+## Du 01/04
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluations de modélisation cinématique des mécanismes.
+
+    - **Finir** et **rendre** sur Capytale les :
+
+        - [TP_NoTouch-Volume](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/EP/NoTouch/TP_NoTouch-Volume.ipynb){target=_blank} | 
+        [Capytale n° ee1a-5957166](https://capytale2.ac-paris.fr/web/c/ee1a-5957166){target=_blank .md-button .md-button--primary } | 
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/EP/NoTouch/TP_NoTouch-Volume.ipynb){ .md-button .md-button--primary} ;
+                
+        - [TP_MetaBird_Frequence](https://nbviewer.org/urls/ericecmorlaix.github.io/1SI_2024-2025/EP/MetaBird/TP_MetaBird-Frequence.ipynb){target=_blank} | 
+        [Capytale n° 6215-5948254](https://capytale2.ac-paris.fr/web/c/6215-5948254){target=_blank .md-button .md-button--primary } | 
+        [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1SI_2024-2025/EP/MetaBird/TP_MetaBird-Frequence.ipynb){ .md-button .md-button--primary} ;
+
+    - **Décrire** vos projets envisagés sur [Capytale n° 8cd5-5957185](https://capytale2.ac-paris.fr/web/c/8cd5-5957185){target=_blank .md-button .md-button--primary } pour préparer la prochaine Fête de la Science qui aura pour thème "les intelligences" et qui se tiendra entre les 3 et 13 octobre prochain ;        
+    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les exercices [contacts](https://perso.crans.org/geneau/NewCligne/ressources/contact_exo.html){target=_blank} et [liaisons](https://perso.crans.org/geneau/NewCligne/ressources/liaison_exo.html){target=_blank} ;
+
+    - **Finir** les exercices de la page [schéma cinématique](https://sites.google.com/view/newecligne/m%C3%A9canique/mod%C3%A9lisation#h.7lox99tb9kg1){target=_blank} ;
+
+***
 ## Les 14 et 15/03 Portes Ouvertes
 
 === "CONTENU DE SÉANCE"
