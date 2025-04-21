@@ -159,6 +159,23 @@
     - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
     > source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>{target=_blank}
 ***
+
+## Du 22/04
+
+=== "CONTENU DE SÉANCE"
+
+    - **Découvrir** les notions de [Mouvements et Trajectoires dans les mécanismes](https://sites.google.com/view/newecligne/m%C3%A9canique/cin%C3%A9matique/mouvements-et-trajectoires){target=_blank} ;
+    - TD Cinématique Ouvre Porte Basculante :
+        - [Figure](./SC/OuvrePorteBasculante/pdf/TDCinematiqueOuvrePorteBasculanteFigure.pdf){target=_blank} 
+        - [Questions](./SC/OuvrePorteBasculante/pdf/TDCinematiqueOuvrePorteBasculanteTexte.pdf){target=_blank}
+        - [Modèle Onshape](https://cad.onshape.com/documents/6a6416ba4d7a24fd56430c53/w/e2b55095d2588d686a0c1ac8/e/5176f6e2731841f719749df9){target=_blank}
+        - [Notice Sprint 550S](./SC/OuvrePorteBasculante/pdf/NoticeSprint550S.pdf){target=_blank}     
+
+=== "TRAVAIL À FAIRE"
+
+    - Application au [vélo elliptique](./SU/Velo_elliptique_A.pdf) : ==**Faire** la 1^ère partie==
+
+***
 ## Du 17/03 
 
 === "CONTENU DE SÉANCE"
