@@ -159,8 +159,20 @@
     - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
     > source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>{target=_blank}
 
-***
 
+
+***
+## Le 29/04
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation sur les notions de [Mouvements et Trajectoires dans les mécanismes](https://sites.google.com/view/newecligne/m%C3%A9canique/cin%C3%A9matique/mouvements-et-trajectoires){target=_blank} ;
+    - **Programmer** les broches d'une [carte BBC micro:bit pour des applications en robotique, domotique et autres projets](https://ericecmorlaix.github.io/1SI_2024-2025/Projets/Robotique){target=_blank} et **rendre** compte sur [Capytale n° 20a7-6453131](https://capytale2.ac-paris.fr/web/c/20a7-6453131){target=_blank} ;
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Compléter** la description de vos projets sur [Capytale n° 8cd5-5957185](https://capytale2.ac-paris.fr/web/c/8cd5-5957185){target=_blank .md-button .md-button--primary } ; 
+***
 ## Le 28/04
 
 === "CONTENU DE SÉANCE"

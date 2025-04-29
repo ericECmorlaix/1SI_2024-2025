@@ -166,13 +166,7 @@ Le point de vue du programmeur en robotique concerne donc l'unité de traitement
         
         ??? info "Réponse : ..."
 
-            <!-- Les lois d'Ohm et de Kirchhoff permettent d'écrire :
-
-            $$U_{P0} = R_1 \times I + U_{LED}$$
-
-            soit :
-
-            $$ R_1 = {{U_{P0} - U_{LED}} \over {I}} = {{3,3 - 2} \over {0,020}} = 65 \;\mathrm{\Omega}$$ -->
+            
 
         ***
 
@@ -180,7 +174,7 @@ Le point de vue du programmeur en robotique concerne donc l'unité de traitement
         
         ??? info "Réponse : ..."
 
-            <!-- $$ I = {{U_{P0} - U_{LED}} \over {R_1}} = {{3,3 - 2} \over {220}} \approx 6 \;\mathrm{mA}$$ -->
+            
 
             ??? warning "Courant et tension aux bornes d'une LED : ..."
 
@@ -188,25 +182,13 @@ Le point de vue du programmeur en robotique concerne donc l'unité de traitement
 
                 [![](https://www.framboiseetcompagnie.fr/wp-content/uploads/2021/10/word-image-39.png)](https://www.framboiseetcompagnie.fr/fiche-n4-les-bases-de-lelectronique-les-leds/){target=_blank}
 
-                <!-- Ainsi, pour une LED rouge  $U_{LED} = {{(1,93-1,55)}\over{(20-1)}} \times I + 1,53 = 0,02 \times I + 1,53$
-
-                Et donc $U_{P0} = R_1 \times I + 0,02 \times I + 1,53$
-
-                Soit $ I = {{U_{P0} - 1,53} \over {R_1 + 0,02}} = {{3,3 - 1,53} \over {220 + 0,02}} \approx 8 \;\mathrm{mA}$ -->
+                
 
 
 
     ??? success "Solution de programme MicroPython"
 
-        <!-- ```Python
-        from microbit import *
-
-        while True:
-            pin0.write_digital(1)
-            sleep(500)
-            pin0.write_digital(0)
-            sleep(500)
-        ``` -->
+        
 
 ### Sortie pseudo-analogique
 
@@ -262,15 +244,7 @@ Le point de vue du programmeur en robotique concerne donc l'unité de traitement
 
     ??? success "Solution de programme MicroPython"
 
-        <!-- ```Python
-        from microbit import *
-
-        for intensite in range(1024) :
-            pin0.write_analog(intensite)
-            sleep(5000/1024) 
-        sleep(1000)
-        pin0.write_digital(0)
-        ``` -->
+        
 
 ### Piloter des Moteurs
 
@@ -325,11 +299,11 @@ Le point de vue du programmeur en robotique concerne donc l'unité de traitement
 
     ??? success "Solution de programme MicroPython"
 
-        <!-- ```Python
+        ```Python
         from microbit import *
 
         
-        ``` -->
+        ```
     !!! tip "On observe qu'en reculant, `pin0.write_analog(0)` produit la plus grande vitesse"
        
 
@@ -339,11 +313,11 @@ Le point de vue du programmeur en robotique concerne donc l'unité de traitement
 
     ??? success "Solution de programme MicroPython"
 
-        <!-- ```Python
+        ```Python
         from microbit import *
 
         
-        ``` -->
+        ```
 
 ??? example "Application : tourner"
 
@@ -351,11 +325,11 @@ Le point de vue du programmeur en robotique concerne donc l'unité de traitement
 
     ??? success "Solution de programme MicroPython"
 
-        <!-- ```Python
+        ```Python
         from microbit import *
 
         
-        ``` -->
+        ```
 ??? question "Que fait le programme ci-dessous ? L'expliquer en complétant les commentaires ..."
 
     ```Python
@@ -463,19 +437,7 @@ Le point de vue du programmeur en robotique concerne donc l'unité de traitement
 
     ??? success "Solution de programme MicroPython"
 
-        <!-- ```Python
-        from microbit import *
-
-        niveau = 0
-
-        while True :
-            if pin5.read_digital() and niveau < 1024 :
-                niveau += 256                
-            if pin11.read_digital()
-                niveau = 0                
-            pin0.write_analog(niveau - 1)
-            sleep(500)
-        ```  -->
+        
 
 ### Entrée analogique
 
@@ -501,15 +463,7 @@ Le point de vue du programmeur en robotique concerne donc l'unité de traitement
 
     ??? success "Solution de programme MicroPython"
 
-        <!-- ```Python
-        from microbit import *
-
-        while True :
-
-            pin0.write_analog(pin1.read_analog())
-            sleep(50)
         
-        ``` -->
 
 ### Interface Homme Machine
 
