@@ -110,22 +110,6 @@
 ***
 
 
-## Les 16 et 17/05
-
-=== "CONTENU DE SÉANCE"
-
-    - TD Cinématique Ouvre Porte Basculante :
-        - [Figure](./SC/OuvrePorteBasculante/pdf/TDCinematiqueOuvrePorteBasculanteFigure.pdf){target=_blank} 
-        - [Questions](./SC/OuvrePorteBasculante/pdf/TDCinematiqueOuvrePorteBasculanteTexte.pdf){target=_blank}
-        - [Modèle Onshape](https://cad.onshape.com/documents/6a6416ba4d7a24fd56430c53/w/e2b55095d2588d686a0c1ac8/e/5176f6e2731841f719749df9){target=_blank}
-        - [Notice Sprint 550S](./SC/OuvrePorteBasculante/pdf/NoticeSprint550S.pdf){target=_blank}     
-
-=== "TRAVAIL À FAIRE"
-
-    - Application au [vélo elliptique](./SU/Velo_elliptique_A.pdf) : ==**Faire** la 1^ère partie pour le 22/05==
-
-
-
 
 
 
@@ -159,7 +143,21 @@
     - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
     > source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>{target=_blank}
 
+***
+## Du 05/05
 
+=== "CONTENU DE SÉANCE"
+
+    - **Programmer** les broches d'une [carte BBC micro:bit pour des applications en robotique, domotique et autres projets](https://ericecmorlaix.github.io/1SI_2024-2025/Projets/Robotique){target=_blank} et **rendre** compte sur [Capytale n° 20a7-6453131](https://capytale2.ac-paris.fr/web/c/20a7-6453131){target=_blank} ;
+
+    - **Découvrir** [la modélisation des Actions Mécaniques](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank}
+
+    - **Appliquer** à l'étude statique du [Cozmo](./AM/AM_Cozmo.pdf){target=_blank} ;
+
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Compléter** la description de vos projets sur [Capytale n° 8cd5-5957185](https://capytale2.ac-paris.fr/web/c/8cd5-5957185){target=_blank .md-button .md-button--primary } ; 
 
 ***
 ## Le 29/04
