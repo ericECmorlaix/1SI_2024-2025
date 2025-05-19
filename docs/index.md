@@ -144,6 +144,22 @@
     > source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort>{target=_blank}
 
 ***
+## Du 19/05
+
+=== "CONTENU DE SÉANCE"
+
+    - **Finir** la programmation des broches Entrées/Sorties Logiques/Analogiques d'une [carte BBC micro:bit pour des applications en robotique, domotique et autres projets](https://ericecmorlaix.github.io/1SI_2024-2025/Projets/Robotique){target=_blank} et **rendre** compte sur [Capytale n° 20a7-6453131](https://capytale2.ac-paris.fr/web/c/20a7-6453131){target=_blank} ;
+
+    - **Réviser** [la modélisation des Actions Mécaniques](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank} pour une évaluation le 27/05 ;
+
+    - **Finir** [l'étude statique](./AM/AM_Cozmo.pdf){target=_blank} et **faire** [les études de transmission de puissance, d'énergétique et de traitement de l'information](./SU/Cozmo.pdf) du robot Cozmo ;
+
+    
+=== "TRAVAIL À FAIRE"
+
+    - **Compléter** la description de vos projets sur [Capytale n° 8cd5-5957185](https://capytale2.ac-paris.fr/web/c/8cd5-5957185){target=_blank .md-button .md-button--primary } ; 
+
+***
 ## Du 05/05
 
 === "CONTENU DE SÉANCE"
